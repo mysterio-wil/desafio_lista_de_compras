@@ -15,4 +15,10 @@ public class Compra {
     public String getDescripcion() {
         return descripcion;
     }
+
+    @Override
+    public String toString() {
+        return "Compra: valor=" + valor +
+                ", descripcion='" + descripcion;
+    }
 }
