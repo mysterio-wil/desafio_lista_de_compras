@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9ff5490-3bbe-4b9d-a5d3-f015c1af2cd6" name="Changes" comment="Se creó y se implementó un método booleano lanzarCompra(compra)">
-      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+    <list default="true" id="e9ff5490-3bbe-4b9d-a5d3-f015c1af2cd6" name="Changes" comment="Se creó y se implementó la clase Principal con su método main.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Compra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +94,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728953447804</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Se añadió implements Comparable&lt;&gt; a la clase Compra, se implementó el método compareTo en la clase compra">
+      <option name="closed" value="true" />
+      <created>1728954959857</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728954959857</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Se creó y se implementó la clase Principal con su método main.">
+      <option name="closed" value="true" />
+      <created>1728955134212</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728955134212</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +130,8 @@
     <MESSAGE value="Se creó y se implementó la clase Compra, se creó un constructor de sus atributos y sus getters correspondientes." />
     <MESSAGE value="En la clase compra se sobreescribió el método toString(){}" />
     <MESSAGE value="Se creó y se implementó un método booleano lanzarCompra(compra)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se creó y se implementó un método booleano lanzarCompra(compra)" />
+    <MESSAGE value="Se añadió implements Comparable&lt;&gt; a la clase Compra, se implementó el método compareTo en la clase compra" />
+    <MESSAGE value="Se creó y se implementó la clase Principal con su método main." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se creó y se implementó la clase Principal con su método main." />
   </component>
 </project>
